@@ -1,28 +1,32 @@
 {
-  "title":"Write the name of your script here",
-  "description":"Write a short description of what your script does here",
+  "title":"Fuling Transit Hub",
+  "description":"This Grasshopper script generates a rationalized steel structure for the roof",
   "coverImage":"./_PW/cover.png",
   "authors":[{
-    "name":"Kyle Example",
-    "email":"kyle.example@example.com",
-    "role":"developer"
+    "name":"Santiago Diaz",
+    "email":"Santiago.Diaz@perkinswill.com",
+    "role":"designer",
+    "name":"Andrew Tsay-Jacobs",
+    "email":"Andrew.TsayJacobs@perkinswill.com",
+    "role":"designer"
   }],
   "offices":[
-    "NewYork",
+    "Vancouver",
     "SanFrancisco"
   ],
   "projects":[{
-    "name":"Example Project",
-    "number":"123456.000",
-	"marketSector":"CCC"
+    "name":"Fuling Transit Hub",
+    "number":"411215.105",
+	"marketSector":"Transit"
   }],
   "dependencies":[{
-    "author":"Autodesk",
-    "name":"Revit",
-    "version":"2016"
+    "author":"McNeel",
+    "name":"Grasshopper",
+    "version":"0.9.0076"
   }],
   "tags":[
-    "boilerplate",
-    "example"
+    "steel",
+    "structure",
+    "rationalization"
   ]
 }
